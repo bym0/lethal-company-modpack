@@ -2,6 +2,13 @@
 
 ## Changelog
 
+### 1.0.2
+Add:
+- "RickArg-Helmet_Cameras-2.1.5",
+- "FlipMods-LetMeLookDown-1.0.1",
+- "NotAtomicBomb-Terminal_Clock-1.0.5",
+- "PopleZoo-BetterItemScan-2.1.7"
+
 ### 1.0.1
 Rm Loud_Horn_Customizer & ChipiChipiLoudHorn, buggy -> causes LoudHorn to permanently activate. Also ChipiChipi Sound does not work.
 
